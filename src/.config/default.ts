@@ -5,9 +5,9 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '既明',
+    title: '既明的抽象运维日常',
     subtitle: 'FJMTECH',
-    author: 'Violette',
+    author: '既明',
     description: 'Welcome to my blog',
     website: 'https://fjmtech.netlify.app/',
     pageSize: 5,
