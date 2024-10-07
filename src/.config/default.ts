@@ -5,11 +5,11 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: '活版印字',
-    subtitle: 'Typography',
-    author: 'Moeyua',
-    description: 'Rediscory the beauty of typography',
-    website: 'https://astro-theme-typography.vercel.app/',
+    title: '既明',
+    subtitle: 'FJMTECH',
+    author: 'Violette',
+    description: 'Welcome to my blog',
+    website: 'https://fjmtech.netlify.app/',
     pageSize: 5,
     socialLinks: [
       {
